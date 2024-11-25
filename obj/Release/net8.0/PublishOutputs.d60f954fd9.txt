@@ -1,0 +1,7 @@
+F:\Work\WelcomeToTheGrind\Azure-williams\az-webapp-vscode\bin\Release\net8.0\publish\Azure-williams.exe
+F:\Work\WelcomeToTheGrind\Azure-williams\az-webapp-vscode\bin\Release\net8.0\publish\appsettings.Development.json
+F:\Work\WelcomeToTheGrind\Azure-williams\az-webapp-vscode\bin\Release\net8.0\publish\appsettings.json
+F:\Work\WelcomeToTheGrind\Azure-williams\az-webapp-vscode\bin\Release\net8.0\publish\Azure-williams.dll
+F:\Work\WelcomeToTheGrind\Azure-williams\az-webapp-vscode\bin\Release\net8.0\publish\Azure-williams.deps.json
+F:\Work\WelcomeToTheGrind\Azure-williams\az-webapp-vscode\bin\Release\net8.0\publish\Azure-williams.runtimeconfig.json
+F:\Work\WelcomeToTheGrind\Azure-williams\az-webapp-vscode\bin\Release\net8.0\publish\Azure-williams.pdb
