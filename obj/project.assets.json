@@ -8889,11 +8889,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Work\\WelcomeToTheGrind\\Azure-williams\\az-webapp-vscode\\Azure-williams.csproj",
-      "projectName": "Azure-williams",
-      "projectPath": "F:\\Work\\WelcomeToTheGrind\\Azure-williams\\az-webapp-vscode\\Azure-williams.csproj",
+      "projectUniqueName": "F:\\Work\\WelcomeToTheGrind\\Azure-williams\\az-webapp-vscode.csproj",
+      "projectName": "az-webapp-vscode",
+      "projectPath": "F:\\Work\\WelcomeToTheGrind\\Azure-williams\\az-webapp-vscode.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "F:\\Work\\WelcomeToTheGrind\\Azure-williams\\az-webapp-vscode\\obj\\",
+      "outputPath": "F:\\Work\\WelcomeToTheGrind\\Azure-williams\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
