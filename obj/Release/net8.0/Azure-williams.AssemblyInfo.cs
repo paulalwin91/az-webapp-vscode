@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Azure-williams")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+861dac9b9a30723cafa5e69bebe11ad04e98960c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a14443340d859e8beb69647243110706a5af01bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Azure-williams")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Azure-williams")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
