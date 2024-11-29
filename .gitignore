@@ -7,3 +7,10 @@ obj/Debug/net8.0/Azure-williams.GeneratedMSBuildEditorConfig.editorconfig
 obj/project.nuget.cache
 bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Features.resources.dll
 bin/Debug/net8.0/id/Humanizer.resources.dll
+obj/project.nuget.cache
+obj/project.assets.json
+obj/Debug/net8.0/az-webapp-vscode.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/net8.0/az-webapp-vscode.assets.cache
+obj/Debug/net8.0/az-webapp-vscode.AssemblyInfoInputs.cache
+obj/Debug/net8.0/az-webapp-vscode.AssemblyInfo.cs
+obj/az-webapp-vscode.csproj.nuget.dgspec.json
