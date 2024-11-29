@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "f:\\Work\\WelcomeToTheGrind\\Azure-williams\\az-webapp-vscode\\Azure-williams.csproj": {}
+    "F:\\Work\\WelcomeToTheGrind\\Azure-williams\\az-webapp-vscode\\Azure-williams.csproj": {}
   },
   "projects": {
-    "f:\\Work\\WelcomeToTheGrind\\Azure-williams\\az-webapp-vscode\\Azure-williams.csproj": {
+    "F:\\Work\\WelcomeToTheGrind\\Azure-williams\\az-webapp-vscode\\Azure-williams.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\Work\\WelcomeToTheGrind\\Azure-williams\\az-webapp-vscode\\Azure-williams.csproj",
+        "projectUniqueName": "F:\\Work\\WelcomeToTheGrind\\Azure-williams\\az-webapp-vscode\\Azure-williams.csproj",
         "projectName": "Azure-williams",
-        "projectPath": "f:\\Work\\WelcomeToTheGrind\\Azure-williams\\az-webapp-vscode\\Azure-williams.csproj",
+        "projectPath": "F:\\Work\\WelcomeToTheGrind\\Azure-williams\\az-webapp-vscode\\Azure-williams.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "f:\\Work\\WelcomeToTheGrind\\Azure-williams\\az-webapp-vscode\\obj\\",
+        "outputPath": "F:\\Work\\WelcomeToTheGrind\\Azure-williams\\az-webapp-vscode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

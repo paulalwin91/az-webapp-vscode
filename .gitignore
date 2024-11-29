@@ -5,3 +5,5 @@ obj/Debug/net8.0/Azure-williams.assets.cache
 obj/Debug/net8.0/Azure-williams.csproj.AssemblyReference.cache
 obj/Debug/net8.0/Azure-williams.GeneratedMSBuildEditorConfig.editorconfig
 obj/project.nuget.cache
+bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+bin/Debug/net8.0/id/Humanizer.resources.dll
